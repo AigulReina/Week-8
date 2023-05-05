@@ -1,0 +1,150 @@
+.navbar {
+    background-color: #343a40;
+
+}
+
+.navbar-header {
+    margin-left: 200px;
+    position: relative;
+}
+
+.navbar-nav {
+    margin-right: 200px;
+    position: relative;
+    left: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #707070;
+
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #fff;
+
+}
+
+.header-container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 15px;
+    background-color: #cecaca;
+    padding: 3rem;
+    border-radius: 0;
+}
+
+
+
+.header h1,
+.header p {
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 100px;
+    position: absolute;
+    width: 539px;
+    height: 32px;
+    left: 200px;
+    top: 200px;
+
+
+}
+
+.footer-links {
+    display: flex;
+    align-items: center;
+
+}
+
+.footer-link-1 {
+    position: absolute;
+    width: 139px;
+    height: 32px;
+    left: -100px;
+    top: 1199px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* identical to box height, or 32px */
+
+    text-decoration: none;
+    /* Основной текст */
+
+    color: #000000;
+}
+
+.footer-link-2 {
+    position: absolute;
+    width: 111px;
+    height: 32px;
+    left: 250px;
+    top: 1199px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* identical to box height, or 32px */
+
+    text-decoration: none;
+    /* Основной текст */
+
+    color: #000000;
+}
+
+.footer-link-3 {
+    position: absolute;
+    width: 95px;
+    height: 32px;
+    left: 550px;
+    top: 1199px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* identical to box height, or 32px */
+    text-decoration: none;
+
+    /* Основной текст */
+
+    color: #000000;
+}
+
+.footer-link-4 {
+    position: absolute;
+    width: 85px;
+    height: 32px;
+    left: 890px;
+    top: 1199px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* identical to box height, or 32px */
+    text-decoration: none;
+
+    /* Основной текст */
+
+    color: #000000;
+}
